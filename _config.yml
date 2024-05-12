@@ -1,5 +1,5 @@
 # Site settings
-title: Ntars Blog
+title: 世界与你，皆不止于此
 SEOTitle: 玖揽星河，一生万物
 header-img: img/home_background.jpg
 email: Ntarswy@163.com
@@ -73,7 +73,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "世界与你，皆不止于此 <br> Ntars studio @ Ntars"
+sidebar-about-description: "世界与你，皆不止于此 <br> Ntars Studio @ Ntars"
 sidebar-avatar: /img/ntars_head.jpg
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
