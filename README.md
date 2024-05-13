@@ -1,4 +1,4 @@
-Apache License 3.0.
+Apache License 2.0.
 Copyright (c) 2024-present ct
 
 Ntars Center is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
